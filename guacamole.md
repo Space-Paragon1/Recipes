@@ -1,7 +1,8 @@
-# Instructions	
+	
 ## Guacamole
 ## Ingredients
-   * Carrot
-   * beef
+   * avocado
+   * lime
+   * salt
 ## Instructions
 
